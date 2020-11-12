@@ -1,1 +1,1 @@
-This is a test repository for training purpose
+This is a test repository for training purpose ofQBurst
