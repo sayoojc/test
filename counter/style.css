@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background: black;
+    font-weight: bold
+}
+h1{
+    color: #eb2c4b;
+    font-size: 100px;
+    margin: 135px 0px 20px;
+}
+#clockdiv{
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 55px;
+}
+#clockdiv > div{
+    padding: 50px;
+    border-radius: 7px;
+    background: #64a7f3;
+    display: inline-block;
+
+}
+#clockdiv div > span{
+    padding: 65px;
+    border-radius: 3px;
+    background: rgb(88, 88, 88);
+    display: inline-block;
+
+}
+.text{
+    padding-top: 5px;
+    font-size: 25px;
+}
